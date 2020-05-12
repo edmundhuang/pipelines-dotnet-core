@@ -1,4 +1,5 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
+![Build Status](https://dev.azure.com/changchunhuang/NetCorePipeline/_apis/build/status/edmundhuang.pipelines-dotnet-core?branchName=master)
 
 [![Build Status](https://dev.azure.com/changchunhuang/NetCorePipeline/_apis/build/status/edmundhuang.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/changchunhuang/NetCorePipeline/_build/latest?definitionId=1&branchName=master)
 
